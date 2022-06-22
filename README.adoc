@@ -1,0 +1,28 @@
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+:toc:
+
+= Example of VM Provisioning with Packer and Vagrant
+Load a Windows 10 / Ubuntu 2104 ISO and Create/Provision a ready to use VM
+
+== Software you'll need
+* Hashicorp Packer
+  * `choco install packer`
+* Hashicorp Vagrant
+  * `choco install vagrant`
+* Local Hypervisor
+  * Microsoft Hyper-V
+  * Oracle VirtualBox
+  * VMware Workstation
+
+== What is Packer
+
+== What is Vagrant
+
+== The Process
