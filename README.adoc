@@ -1,3 +1,4 @@
+= Example of VM Provisioning with Packer and Vagrant
 ifdef::env-github[]
 :tip-caption: :bulb:
 :note-caption: :information_source:
@@ -7,9 +8,11 @@ ifdef::env-github[]
 endif::[]
 
 :toc:
+:toc-placement!:
 
-= Example of VM Provisioning with Packer and Vagrant
 Load a Windows 10 / Ubuntu 2104 ISO and Create/Provision a ready to use VM
+
+toc::[]
 
 == Software you'll need
 * Hashicorp Packer
