@@ -6,7 +6,6 @@ ifdef::env-github[]
 :caution-caption: :fire:
 :warning-caption: :warning:
 endif::[]
-
 :toc:
 :toc-placement!:
 
@@ -16,13 +15,13 @@ toc::[]
 
 == Software you'll need
 * Hashicorp Packer
-  * `choco install packer`
+** `choco install packer`
 * Hashicorp Vagrant
-  * `choco install vagrant`
+** `choco install vagrant`
 * Local Hypervisor
-  * Microsoft Hyper-V
-  * Oracle VirtualBox
-  * VMware Workstation
+** Microsoft Hyper-V
+** Oracle VirtualBox
+** VMware Workstation
 
 == What is Packer
 
